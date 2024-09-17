@@ -1,0 +1,12 @@
+h5py
+matplotlib
+numpy==1.26.0
+pandas
+python-dateutil
+requests
+scipy 
+scikit-learn
+tensorboard
+torch==1.12
+tqdm
+-e .
